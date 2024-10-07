@@ -1,0 +1,39 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    
+    
+    
+    // make a method
+    // array 
+    public static void main(String[] args) {//TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
+
+        for (int i = 1; i <= 5; i++) {
+
+            int Bye = 45;
+            System.out.println(Bye);
+
+            Float Hi = 3.3333333f;
+            System.out.println(Hi);
+
+            String c = ("Cat");
+            System.out.println(c);
+
+            boolean Dog = false;
+            System.out.println(Dog);
+
+            double A = 0.222222222222222f;
+            System.out.println(A);
+            
+            
+
+
+
+
+
+
+
+
+        }
+    }
+}
